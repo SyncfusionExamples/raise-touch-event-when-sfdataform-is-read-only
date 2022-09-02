@@ -1,6 +1,6 @@
-# How-to-raise-sfdataform-label-and-editor-Touch-event-when-dataform-is-read-only-in-Xamarin.Android
+# How to raise SfDataForm label and editor touch event when dataform is read-only in Xamarin.Android?
 
-This example demonstrates how to raise SfDataForm label and editor Touch event when data form is read only in Xamarin.Android.
+This example demonstrates how to raise SfDataForm label and editor touch event when data form is read only in Xamarin.Android.
 
 See [How to raise SfDataForm label and editor Touch event when data form is read only](https://www.syncfusion.com/kb/9655/how-to-raise-sfdataform-label-and-editor-touch-event-when-data-form-is-read-only) in Xamarin.Android for more details.
 
